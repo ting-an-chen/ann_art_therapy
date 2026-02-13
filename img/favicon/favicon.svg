@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" version="1.1" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st3 {
+        fill: #cde6dc;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" y="0" width="1000" height="1000" rx="250" ry="250"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" y="0" width="1000" height="1000" rx="250" ry="250"/>
+    </clipPath>
+  </defs>
+  <g id="light-icon">
+    <g class="st4">
+      <g>
+        <rect class="st3" y="0" width="1000" height="1000"/>
+        <image class="st1" width="2360" height="1640" transform="translate(0 152.6) scale(.4)" xlink:href="favicon-1.png"/>
+      </g>
+    </g>
+  </g>
+  <g id="dark-icon">
+    <g class="st2">
+      <g>
+        <rect class="st3" y="0" width="1000" height="1000"/>
+        <image class="st1" width="2360" height="1640" transform="translate(0 152.6) scale(.4)" xlink:href="favicon-2.png"/>
+      </g>
+    </g>
+  </g>
+</svg>
